@@ -53,3 +53,15 @@
   border: 2px solid cyan;
   border-radius: 10px;
 }
+.card2 {
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid darkviolet;
+  border-radius: 10px;
+}
+.card3 {
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid firebrick;
+  border-radius: 10px;
+}
